@@ -1,0 +1,368 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+header{
+    background: rgb(73, 4, 4);
+}
+.container{
+    padding: 33px 143px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.logo{
+    display: flex;
+    align-items: center;
+    gap: 35px;
+}
+nav{
+    display: flex;
+    align-items: center;
+    gap: 40px;
+}
+nav a{
+    color: rgb(255, 255, 255);
+font-family: Roboto;
+font-size: 16px;
+font-weight: 400;
+line-height: 16px;
+letter-spacing: 0%;
+text-align: left;
+}
+nav a:hover{
+    color: black;
+}
+nav a:active{
+    color: blue;
+}
+.iii{
+    color: white;
+    display: flex;
+    gap: 12px;
+    align-items: center;
+}
+i{
+    font-size: 36px;
+}
+main{
+    background-color: black;
+}
+.s1{
+    display: flex;
+    padding: 79px 133px;
+    align-items: center;
+    justify-content: space-between;
+} 
+h1{
+    color: rgb(255, 255, 255);
+font-family: Roboto;
+font-size: 51px;
+font-weight: 700;
+line-height: 60.61px;
+letter-spacing: 0%;
+text-align: left;
+text-transform: uppercase;
+width: 480.66px;
+height: 122px;
+margin-bottom: 43px;
+}
+.p1{
+    color: rgb(255, 255, 255);
+font-family: Roboto;
+font-size: 16px;
+font-weight: 400;
+line-height: 25.6px;
+letter-spacing: 0%;
+text-align: left;
+width: 337.66px;
+height: 77px;
+}
+.yozu button{
+    width: 203.59px;
+height: 60px;
+background: rgb(141, 253, 27);
+color: rgb(0, 0, 0);
+font-family: Roboto;
+font-size: 16px;
+font-weight: 400;
+line-height: 16px;
+letter-spacing: 0%;
+text-align: center;
+text-transform: capitalize;
+margin-top: 115px;
+}
+.yozu button:hover{
+    background-color: white;
+    color: blue;
+}
+.yozu button:active{
+    background: rgb(141, 253, 27);
+    color: black;
+}
+.s img{
+    width: 664.39px;
+height: 438px;
+}
+h2{
+    color: rgb(255, 255, 255);
+font-family: Roboto;
+font-size: 38px;
+font-weight: 700;
+line-height: 45.48px;
+letter-spacing: 0%;
+text-align: center;
+text-transform: uppercase;
+margin-bottom: 103px;
+}
+.cards{
+    display: flex;
+    flex-direction: column;
+    align-items: center ;
+}
+.card{
+    width: 539px;
+    height: 271px;
+    background-color: rgba(255, 255, 255, 0.096);
+    margin-bottom: 141px;
+}
+.tepa{  
+    padding: 12px 12px;
+    width: 539px;
+    height: 70px;
+    display: flex;
+    gap: 16px;
+    align-items: center;
+    border: 1px solid rgb(141, 253, 27);
+}
+.pas{
+    border: 1px solid rgb(141, 253, 27);
+    width: 539px;
+    height: 199.5px;
+    padding: 30px 12px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+h3{
+    color: rgb(255, 255, 255);
+font-family: Roboto;
+font-size: 16px;
+font-weight: 700;
+line-height: 27.73px;
+letter-spacing: 0%;
+text-align: left;
+text-transform: uppercase;
+}
+.tepa img{
+    width: 45px;
+height: 45px;
+}
+p{
+    color: rgb(255, 255, 255);
+font-family: Roboto;
+font-size: 11px;
+font-weight: 400;
+line-height: 32px;
+letter-spacing: 0%;
+text-align: left;
+}
+.pp{
+    color: rgb(255, 255, 255);
+font-family: Roboto;
+font-size: 12px;
+font-weight: 400;
+line-height: 32px;
+letter-spacing: 0%;
+text-align: left;
+}
+.s3{
+    padding:100px 199px ;
+}
+h5{
+    color: rgb(255, 255, 255);
+font-family: Roboto;
+font-size: 48px;
+font-weight: 400;
+line-height: 45.48px;
+letter-spacing: 0%;
+text-align: left;
+text-transform: uppercase;
+}
+.qora{
+    color: rgb(168, 168, 168);
+font-family: Roboto;
+font-size: 48px;
+font-weight: 700;
+line-height: 45.48px;
+letter-spacing: 0%;
+text-align: left;
+text-transform: uppercase;
+}
+.s3pas{
+    display: flex;
+    justify-content: space-between;
+}
+.tinp{
+    width: 578px;
+    height: 72px;  
+    padding: 0px 29px; 
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.pinp{
+    padding: 0px 29px; 
+    width: 578px;
+height: 72px;
+display: flex;
+justify-content: space-between;
+align-items: center;
+}
+.inp{
+    background-color: rgba(255, 255, 255, 0.096);
+    margin-bottom: 164px;
+}
+.left img{
+    width: 360px;
+    height: 360px;
+    margin-top: 51px;
+}
+.p3{
+    color: rgb(255, 255, 255);
+font-family: Roboto;
+font-size: 16px;
+font-weight: 400;
+line-height: 24px;
+letter-spacing: 0%;
+text-align: left;
+}
+h4{
+    color: rgb(255, 255, 255);
+font-family: Roboto;
+font-size: 38px;
+font-weight: 700;
+line-height: 45.48px;
+letter-spacing: 0%;
+text-align: center;
+text-transform: uppercase;
+    margin-bottom: 209px;
+}
+h6{
+    color: rgb(255, 255, 255);
+font-family: Roboto;
+font-size: 96px;
+font-weight: 700;
+line-height: 45.48px;
+letter-spacing: 0%;
+text-align: center;
+text-transform: uppercase;
+    margin-bottom: 90px
+}
+.artist{
+    display: flex;
+    justify-content: space-between;
+}
+.acard{
+    width: 320px;
+height: 552px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+}
+.s4{
+    padding:0px 100px 146px 180px;
+}
+.p6{
+    color: rgb(255, 255, 255);
+font-family: Roboto;
+font-size: 12px;
+font-weight: 500;
+line-height: 19.2px;
+letter-spacing: 0%;
+text-align: center;
+width: 238px;
+height: 58px;
+}
+.p4{
+    color: rgb(255, 255, 255);
+font-family: Roboto;
+font-size: 21px;
+font-weight: 700;
+line-height: 27.73px;
+letter-spacing: 0%;
+text-align: center;
+text-transform: uppercase;
+}
+.p5{
+    color: rgb(141, 253, 27);
+font-family: Roboto;
+font-size: 11px;
+font-weight: 600;
+line-height: 12px;
+letter-spacing: 1px;
+text-align: center;
+text-transform: uppercase;
+}
+.ii{
+    display: flex;
+    gap: 12px;
+    color: white;
+}
+.ii i{
+    font-size: 36px;
+}
+button i{
+    font-size: 20px;
+    color: black;
+}
+.sl5 button{
+    width: 213px;
+height: 43px;   
+background: rgb(141, 253, 27);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+button p{
+    color: rgb(0, 0, 0);
+font-family: Roboto;
+font-size: 16px;
+font-weight: 500;
+line-height: 16px;
+letter-spacing: 0%;
+text-align: center;
+text-transform: capitalize;
+}
+.h1{
+    color: rgb(141, 253, 27);
+font-family: Roboto;
+font-size: 51px;
+font-weight: 700;
+line-height: 60.61px;
+letter-spacing: 0%;
+text-align: left;
+text-transform: uppercase;  
+}
+.pp{
+    color: rgb(255, 255, 255);
+font-family: Roboto;
+font-size: 16px;
+font-weight: 500;
+line-height: 25.6px;
+letter-spacing: 0%;
+text-align: left;
+}
+.s5{
+    padding: 20px 73px 146px 200px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+.s5 img{
+    width: 450px;
+height: 450px;
+}
